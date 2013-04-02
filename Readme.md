@@ -47,12 +47,12 @@ kyle Macdonald : <http://kylemcdonald.net>
 **FaceOSC_baic_01 ~ 03 : FascOSC Basic**
 **FaceOSC_baic_04 ~ 06 : FascOSC Basic Plus**
 
-![](wiki/images/00001-FaceOSC_basic_01_02.jpg)
-![](wiki/images/00002-FaceOSC_basic_03.jpg)
-![](wiki/images/00003-FaceOSC_basic_03_key_logi.jpg)
+![](images/00001-FaceOSC_basic_01_02.jpg)
+![](images/00002-FaceOSC_basic_03.jpg)
+![](images/00003-FaceOSC_basic_03_key_logi.jpg)
 
 **FaceOSC Code in Face.pde (FaceOSC - Templates)**
-![](wiki/images/00004-Face.pde.jpg)
+![](images/00004-Face.pde.jpg)
 
 **FaceOSC Moving Code**
-![](wiki/images/00005-FaceOSC_moving_01.jpg)
+![](images/00005-FaceOSC_moving_01.jpg)
